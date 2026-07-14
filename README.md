@@ -6,9 +6,9 @@
 ### About me
 - 🔭 **Currently working on**: Best practices on building scalable web applications
 - 🌱 **Currently learning**: Docker containerization
-- 👯 **Looking to collaborate on**: Scalable frontend and backend projects
+- 👯 **Looking to collaborate on**: Scalable frontend, and backend projects
 - 🤔 **Seeking for opportunities with**: Startups, IT firms, and organizations 
-- 💬 **Ask me about**: React, Express, Nest
+- 💬 **Ask me about**: Frontend development
 - 📫 **How to reach me**: [LinkedIn](www.linkedin.com/in/adebayo-otomuola) or [email](adebayootomuola@gmail.com) 
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I am enthusiatic about tech innovations, and enjoy reading novels
